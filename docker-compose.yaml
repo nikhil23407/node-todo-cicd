@@ -4,4 +4,4 @@ services:
   web:
     image: node/nikhil23407:latest
     ports:
-      - "8000:8000"
+      - "8001:8000"
